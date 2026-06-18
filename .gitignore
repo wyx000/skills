@@ -3,3 +3,5 @@ node_modules/
 Thumbs.db
 *.html
 *.pdf
+!resume-pdf-export/examples/*.html
+!resume-pdf-export/examples/*.pdf
