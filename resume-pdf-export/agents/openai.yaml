@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume PDF Export"
+  short_description: "Export Markdown resumes to styled HTML and PDF"
+  default_prompt: "Export the current Markdown resume as styled HTML and PDF"
